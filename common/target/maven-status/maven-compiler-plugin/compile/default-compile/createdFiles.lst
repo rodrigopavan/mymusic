@@ -1,0 +1,4 @@
+com/mymusic/model/ArtistaModel.class
+com/mymusic/model/MusicaModel.class
+com/mymusic/config/SwaggerConfig.class
+com/mymusic/repository/MusicaRepository.class

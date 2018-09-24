@@ -1,0 +1,6 @@
+com/mymusic/controller/PlaylistControllerTest.class
+com/mymusic/controller/PlaylistControllerAdviceTest.class
+com/mymusic/model/PlaylistMusicasModelTest.class
+com/mymusic/model/UsuarioModelTest.class
+com/mymusic/service/PlaylistServiceImplTest.class
+com/mymusic/model/PlaylistModelTest.class

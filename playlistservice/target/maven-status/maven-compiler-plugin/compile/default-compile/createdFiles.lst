@@ -1,0 +1,10 @@
+com/mymusic/model/PlaylistModel.class
+com/mymusic/repository/PlaylistRepository.class
+com/mymusic/controller/PlaylistController.class
+com/mymusic/model/PlaylistMusicasModel.class
+com/mymusic/model/UsuarioModel.class
+com/mymusic/PlaylistApp.class
+com/mymusic/controller/PlaylistControllerAdvice.class
+com/mymusic/repository/UsuarioRepository.class
+com/mymusic/service/PlaylistService.class
+com/mymusic/service/PlaylistServiceImpl.class
